@@ -1,4 +1,7 @@
-# :wave: Hello there...This is Srinivasan Jayakumar
+<span align="center">
+          <h1>:wave: Hello there...This is Srinivasan Jayakumar</h1>
+          <h3> 💙 Loves Coding 💙 </h3>
+</span>
 
 ## 📖 About Me
 
@@ -19,8 +22,15 @@
           <b>&emsp;</b>
 </table>
 
+## 🌱 My Current Project
 
+* Now I am currently working on freelance project for a small _Papadum Company_
 
+## 😉 Hobbies
+
+<span align="left">
+          <h2> 🎮 🎼 🚲 </h2>
+</span>
 <div align="center">
 <h3 align="center">Show some &nbsp;❤️&nbsp; by starring some of the repositories!</h3>
 </div><img src="https://github.com/punitkmryh/punitkmryh/blob/master/wave.svg" />
