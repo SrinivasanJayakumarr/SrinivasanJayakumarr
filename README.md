@@ -22,10 +22,6 @@
           <b>&emsp;</b>
 </table>
 
-## 🌱 My Current Project
-
-* Now I am currently working on freelance project for a small _Papadum Company_
-
 ## 😉 Hobbies
 
 <span align="left">
