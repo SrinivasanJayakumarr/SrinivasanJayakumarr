@@ -16,7 +16,7 @@
 <table>
           <a href="#"><img alt="Android Studio" title="Android Studio" height="28px"src="https://i.imgur.com/6nJGNMN.png" /></a>
           <b>&emsp;</b>
-          <a href="#"><img alt="Kotlin" title="Kotlin" height="28px"src="[https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png](https://img.icons8.com/external-tal-revivo-color-tal-revivo/24/external-kotlin-a-cross-platform-statically-typed-general-purpose-programming-language-with-type-inference-logo-color-tal-revivo.png)" /></a>
+          <a href="#"><img alt="Kotlin" title="Kotlin" height="28px"src="[https://img.icons8.com/external-tal-revivo-color-tal-revivo/24/external-kotlin-a-cross-platform-statically-typed-general-purpose-programming-language-with-type-inference-logo-color-tal-revivo.png]" /></a>
           <b>&emsp;</b>
           <a href="#"><img alt="Java" title="Java" height="28px"src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png" /></a>
           <b>&emsp;</b>
