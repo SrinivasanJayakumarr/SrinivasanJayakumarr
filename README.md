@@ -8,7 +8,7 @@
 * 💻 I'm an Android developer
 * 🎨 I'm a self-taught UI designer
 * 📱 I make apps for Android
-* 🎓 I'm a Computer Science student (graduating in October 2019)
+* 🎓 I'm a Computer Science student
 * 🌐 You can see some of my projects on [my portfolio](https://github.com/SrinivasanJayakumarr/)
 
 ## 👨‍💻 Languages and Tools:
